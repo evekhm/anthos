@@ -1,5 +1,0 @@
-# config-sync/system/repo.yaml
-apiVersion: v1
-kind: Repo
-metadata:
-  name: repo
