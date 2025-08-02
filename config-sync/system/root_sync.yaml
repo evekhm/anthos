@@ -5,7 +5,7 @@ metadata:
   name: root-sync
   namespace: config-management-system
 spec:
-  sourceFormat: hierarchy
+  sourceFormat: unstructured
   git:
     # The URL of the public repository
     repo: https://github.com/evekhm/anthos.git
